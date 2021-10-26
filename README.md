@@ -8,6 +8,23 @@ Get official documentation from rdocumentation.org like *"rdoc ggplot geom_line"
 
 Type `rdoc` followed by your query which is of the form `<library> <function>` 
 
+Currently only the following packages are supported
+- ggplot2
+- dplyr
+- stringr
+- tidyverse
+- tibble
+- odbc
+- foreign
+- tidyr
+- htmlwidgets
+- vcd
+- xml
+- jsonlite
+- httr
+- devtools
+
+## Future Plans
 `CMD` + `E` to view examples 
 `CMD` + `D` to view description
 `CMD` + `A` to view arguments
