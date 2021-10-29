@@ -7,7 +7,7 @@ Get function descriptions and arguments from rdocumentation.org like *"rdoc ggpl
 
 Type `rdoc` followed by your query which is of the form `<library> <function>` 
 
-![Alt Text](./rdoc_usage.gif)
+![Rdoc Usage](./rdoc_usage.gif)
 
 Currently only the following packages are supported
 - ggplot2
